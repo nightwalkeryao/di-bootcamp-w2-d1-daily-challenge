@@ -1,1 +1,1 @@
-# DI Bootcamp - Week 2 - Day 1 - Exercises XP
+# DI Bootcamp - Week 2 - Day 1 - Daily Challenge
